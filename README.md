@@ -10,3 +10,12 @@ Chatto: Talk is a real-time chat application designed to provide seamless and in
 - **Firebase Cloudstore**: Store chat data securely in the cloud for seamless access across devices. ☁️
 - **Phone Authentication**: Secure and easy login using your phone number. 📞
 - **Profile Management**: Change your username or profile picture after logging in. ✏️📸
+
+
+## Screenshots 1
+![image](https://github.com/user-attachments/assets/dd6697da-8cbb-4c83-a7b7-e21af250a3be)
+
+## Screenshots 2
+![image](https://github.com/user-attachments/assets/806fa571-0153-42c4-8e51-8254c2207c7a)
+
+
