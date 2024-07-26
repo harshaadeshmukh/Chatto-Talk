@@ -15,7 +15,7 @@ Chatto: Talk is a real-time chat application designed to provide seamless and in
 # Demo 📲
  You can download and install the demo APK of Chatto: Talk from Google Drive:
 
-- Click here to access the [Demo]([https://weather-way.netlify.app/](https://drive.google.com/drive/folders/146XBlPx-PdL6wy0bWDx1sYBnTKAU0PXn?usp=sharing).
+- Click here to access the [Demo](https://drive.google.com/drive/folders/146XBlPx-PdL6wy0bWDx1sYBnTKAU0PXn?usp=sharing).
 - Navigate to the **Chatto** folder.
 - Go to the **apk** directory.
 - Download **app-debug.apk** from the debug folder.
