@@ -12,6 +12,16 @@ Chatto: Talk is a real-time chat application designed to provide seamless and in
 - **Profile Management**: Change your username or profile picture after logging in. ✏️📸
 
 
+# Demo 📲
+ You can download and install the demo APK of Chatto: Talk from Google Drive:
+
+- Click here to access the [Demo]([https://weather-way.netlify.app/](https://drive.google.com/drive/folders/146XBlPx-PdL6wy0bWDx1sYBnTKAU0PXn?usp=sharing)).
+- Navigate to the **Chatto** folder.
+- Go to the **apk** directory.
+- Download **app-debug.apk** from the debug folder.
+- Install the APK on your device to try out the demo.
+
+
 ## Screenshots 1
 ![image](https://github.com/user-attachments/assets/dd6697da-8cbb-4c83-a7b7-e21af250a3be)
 
